@@ -1,40 +1,32 @@
+# 🎢 Roller Coaster Ride
 
----
+A simple and interactive eligibility checker built with Java Swing. Input age, height, and any health concerns to find out if you're allowed on the ride!
 
- **Roller Coaster Eligibility Checker**
-
-```markdown
-# 🎢 Roller Coaster Ride Eligibility Checker
-
-A Java Swing-based application that checks if a person is eligible to ride a roller coaster based on height, age, and health conditions.
-
----
-
-## ✅ Features
-- Input fields for **height (feet + inches)** and **age**
-- Questions about health conditions (heart, motion sickness, etc.)
-- Outputs eligibility decision and reason
-- Displays ride ticket history (using `JTextPane`)
-
----
+## 🎮 Features
+- Age and height input (feet & inches)
+- Health condition checkboxes (e.g. heart conditions, pregnancy)
+- Clear eligibility result display
+- Ride ticket history log within the app
+- Clean and friendly UI
 
 ## 🚀 Technologies Used
 - Java
 - Java Swing
 
----
+## 🧠 How It Works
+1. Enter your age and height  
+2. Select any applicable health conditions  
+3. Press "Check" to see if you’re eligible to ride  
+4. Ride entries are saved and shown in the history panel
 
-## 📂 Setup Instructions
+## 📂 Setup
+1. Clone the repo:  
+   `git clone https://github.com/yourusername/rollercoaster-checker.git`
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/rollercoaster-checker.git
+2. Open the folder in your IDE or terminal
 
-# Navigate to the directory
-cd rollercoaster-checker
+3. Compile with:  
+   `javac Main.java`
 
-# Compile the source
-javac RollerCoaster.java
-
-# Run the app
-java RollerCoaster
+4. Run the program:  
+   `java Main`
