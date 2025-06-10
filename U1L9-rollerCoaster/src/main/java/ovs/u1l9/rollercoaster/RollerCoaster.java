@@ -1,9 +1,7 @@
 
 
 
-//Name: Hetarth Parikh
-//Unit,Lesson,Name of Assignment: Unit 1 Lesson 9, Roller Coaster ride Assignment
-//Date of Completion: September 18th 2024
+
 //Description: This is a program of a roller coaster ride that tells you if you
 //are eligible to ride the coaster taking into account your height and other
 //medical issues as well
